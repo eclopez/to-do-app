@@ -1,6 +1,8 @@
 import * as React from 'react';
 import { Metadata } from 'next';
 
+import './global.css';
+
 const metadata: Metadata = {
   title: 'To Do App',
   description:
